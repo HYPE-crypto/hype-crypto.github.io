@@ -84,7 +84,7 @@ input, select, textarea {
 
 	body {
 		background: #252122;
-		background-image: url("images/bg02.png"); 
+		background-image: url("images/bg02.png");
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -102,7 +102,7 @@ input, select, textarea {
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
 		color: #5d5d5d;
-		font-size: 1pt;
+		font-size: 14pt;
 		line-height: 1.75em;
 	}
 
@@ -1828,7 +1828,7 @@ input, select, textarea {
 			position: absolute;
 			left: 0;
 			top: 1.3em;
-			background-color: #d52341;
+			background-color: #d52349;
 			height: 3.5em;
 			text-align: center;
 			color: #fff;
@@ -2124,7 +2124,7 @@ input, select, textarea {
 
 	.dropotron {
 		border-radius: 5px;
-		background-color: #2521622;
+		background-color: #252122;
 		background-color: rgba(34, 30, 31, 0.98);
 		padding: 1.25em 1.5em 1.25em 1.5em;
 		font-style: italic;
